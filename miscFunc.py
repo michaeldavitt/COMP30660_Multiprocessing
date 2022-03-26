@@ -33,5 +33,4 @@ def check_prime(num):
             res = True
             # if input number is less than
             # or equal to 1, it is not prime
-    print("Task", multiprocessing.current_process(), num, res)
     return res
